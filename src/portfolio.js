@@ -49,12 +49,12 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Was mache ich",
-  subTitle: "Hobby enwicklen alles open source und kostelos",
+  subTitle: "Hobby entwicklen alles open source und Kostelos",
   skills: [
     emoji(
       "⚡ Websiten"
     ),
-    emoji("⚡ Sowtware"),
+    emoji("⚡ Software"),
     emoji(
       "⚡ und vieles mehr."
     )
